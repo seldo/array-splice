@@ -1,9 +1,15 @@
 {
   "name": "array-splice",
-  "version": "0.1",
+  "description": "A splice method for arrays that doesn't require adding each element individually",
+  "version": "0.1.1",
   "private": false,
   "scripts": {
   },
   "dependencies": {
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seldo/array-splice"
   }
 }
